@@ -1,0 +1,107 @@
+
+.container{
+	margin-top: 150px;
+	
+	min-height: 100%;
+}
+nav{
+    top: 0;
+    left:0;
+    height: 79px;
+    width: 100%;
+    background-color: #fff;
+    position: fixed;
+    z-index: 2000;
+}
+.img{
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 70px;
+    width: 70px;
+    float: left;
+
+}
+.h1_img{
+    font-size: 20px;
+    float: right;
+    padding-right: 5px;
+    padding-right: 980px;
+    color: #000;
+}
+.login_box{
+	
+    box-shadow: 0 40px 50px 0 #757575;
+    max-width: 400px;
+    min-height: 400px;
+    margin: auto;
+
+   border-color: #000;
+    text-align: center;
+    background:#000000;
+    z-index: 100px;
+}
+input[type=text], input[type=password] {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.button {
+
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 100%;
+    margin-right: 28px;
+    cursor: pointer;
+    width: 90%;
+    margin-left: 18px;
+}
+a{
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:visited{
+    color:red;
+}
+.login-form{
+    margin-top: 30px;
+}
+
+.button:hover {
+    opacity: 0.8;
+}
+
+label{
+	color: white;
+
+    
+}
+.contain{
+	padding-top: 40px;
+}
+#left{
+    width: 15%;
+background-
+}
+.admin_menu{
+    color:black;
+    font-size: 20px;
+     text-decoration: none;
+
+
+}
+.list{
+    list-style: none;
+
+}
+.error{color: #fff;
+    margin-bottom: 10px;
+font-size: 18px;}
